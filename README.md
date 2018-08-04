@@ -9,9 +9,9 @@ The Open source project of WiringPi on OrangePi. maintain from www.orangepi.org
 
     ```
       On OrangePi 2G-IOT:
-        env GIT_SSL_NO_VERIFY=true git clone https://github.com/OrangePiLibra/WiringPi.git 
+        env GIT_SSL_NO_VERIFY=true git clone https://github.com/fobaty/WiringPi.git 
       On Other board:
-        git clone https://github.com/OrangePiLibra/WiringPi.git
+        git clone https://github.com/fobaty/WiringPi.git
     ```
   * Compile and install wiringPi
    
